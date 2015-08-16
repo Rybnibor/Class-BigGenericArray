@@ -1,0 +1,4 @@
+C:\Users\PACKARD\Documents\Visual Studio 2013\Projects\marka\BigArray\BigArray\bin\Debug\BigArray.dll
+C:\Users\PACKARD\Documents\Visual Studio 2013\Projects\marka\BigArray\BigArray\bin\Debug\BigArray.pdb
+C:\Users\PACKARD\Documents\Visual Studio 2013\Projects\marka\BigArray\BigArray\obj\Debug\BigArray.dll
+C:\Users\PACKARD\Documents\Visual Studio 2013\Projects\marka\BigArray\BigArray\obj\Debug\BigArray.pdb
